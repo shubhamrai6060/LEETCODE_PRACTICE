@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0056-merge-intervals) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0053-maximum-subarray) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
