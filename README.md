@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0283-move-zeroes) |
 | [0881-boats-to-save-people](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0881-boats-to-save-people) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Greedy
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0206-reverse-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
