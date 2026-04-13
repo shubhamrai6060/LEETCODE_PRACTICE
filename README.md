@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0283-move-zeroes) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0190-reverse-bits](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0190-reverse-bits) |
 ## Dynamic Programming
 |  |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0543-diameter-of-binary-tree) |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0543-diameter-of-binary-tree) |
@@ -166,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0035-search-insert-position) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
