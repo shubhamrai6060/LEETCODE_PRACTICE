@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0283-move-zeroes) |
 | [0881-boats-to-save-people](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0881-boats-to-save-people) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0283-move-zeroes) |
 | [0881-boats-to-save-people](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0881-boats-to-save-people) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0189-rotate-array) |
 ## Memoization
 |  |
 | ------- |
