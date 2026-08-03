@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0283-move-zeroes) |
 | [0881-boats-to-save-people](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0881-boats-to-save-people) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0189-rotate-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Memoization
 |  |
 | ------- |
