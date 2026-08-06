@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0160-intersection-of-two-linked-lists) |
+| [0242-valid-anagram](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0414-third-maximum-number) |
 | [0881-boats-to-save-people](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0881-boats-to-save-people) |
 ## Simulation
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0344-reverse-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## String Matching
