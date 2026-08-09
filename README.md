@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0881-boats-to-save-people) |
 | [0918-maximum-sum-circular-subarray](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0918-maximum-sum-circular-subarray) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/1470-shuffle-the-array) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Binary Search Tree
 |  |
 | ------- |
