@@ -1,0 +1,38 @@
+class Solution {
+public:
+    int shipWithinDays(vector<int>& weights, int days) {
+        int left = *max_element(weights.begin(), weights.end());
+        int right = 0;
+
+        for (int weight : weights) {
+            right += weight;
+        }
+
+        while (left < right) {
+            int mid = left + (right - left) / 2;
+
+            int requiredDays = 1;
+            int currentWeight = 0;
+
+            for (int weight : weights) {
+                if (currentWeight + weight > mid) {
+                    requiredDays++;
+                    currentWeight = 0;
+                }
+
+                currentWeight += weight;
+            }
+
+            if (requiredDays <= days) {
+             
+                right = mid;
+            }
+            else {
+              
+                left = mid + 1;
+            }
+        }
+
+        return left;
+    }
+};
