@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0918-maximum-sum-circular-subarray) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0567-permutation-in-string) |
 | [0881-boats-to-save-people](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0905-sort-array-by-parity) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Greedy
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0414-third-maximum-number) |
 | [0881-boats-to-save-people](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0905-sort-array-by-parity) |
 ## Simulation
 |  |
 | ------- |
