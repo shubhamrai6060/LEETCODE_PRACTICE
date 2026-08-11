@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0190-reverse-bits) |
+| [0231-power-of-two](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0231-power-of-two) |
 ## Linked List
 |  |
 | ------- |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0509-fibonacci-number) |
 ## Stack
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2235-add-two-integers](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/2235-add-two-integers) |
