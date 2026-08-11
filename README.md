@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0342-power-of-four) |
+| [0779-k-th-symbol-in-grammar](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0779-k-th-symbol-in-grammar) |
 ## Linked List
 |  |
 | ------- |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0509-fibonacci-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0779-k-th-symbol-in-grammar) |
 ## Stack
 |  |
 | ------- |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0509-fibonacci-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0779-k-th-symbol-in-grammar) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2235-add-two-integers](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/2235-add-two-integers) |
 ## Memoization
