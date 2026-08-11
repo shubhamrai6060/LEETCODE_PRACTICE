@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0152-maximum-product-subarray) |
+| [0509-fibonacci-number](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0918-maximum-sum-circular-subarray) |
 ## Sorting
 |  |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -194,12 +196,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0189-rotate-array) |
+| [0509-fibonacci-number](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2235-add-two-integers](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/2235-add-two-integers) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0509-fibonacci-number) |
 ## Backtracking
 |  |
 | ------- |
