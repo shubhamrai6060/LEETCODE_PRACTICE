@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0342-power-of-four) |
 ## Linked List
 |  |
 | ------- |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2235-add-two-integers](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/2235-add-two-integers) |
