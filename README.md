@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0881-boats-to-save-people) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0387-first-unique-character-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0567-permutation-in-string) |
 ## Two Pointers
 |  |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/1480-running-sum-of-1d-array) |
 ## Monotonic Queue
 |  |
