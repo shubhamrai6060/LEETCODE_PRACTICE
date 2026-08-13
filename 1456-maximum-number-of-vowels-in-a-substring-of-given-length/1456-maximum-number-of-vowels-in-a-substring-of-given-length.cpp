@@ -16,7 +16,7 @@ public:
        
         for (int i = k; i < s.length(); i++) {
 
-            if (s[i] == 'a' || s[i] == 'e' ||
+            if (s[i] == 'a' || s[i] == 'e' || 
                 s[i] == 'i' || s[i] == 'o' ||
                 s[i] == 'u') {
                 count++;
