@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0881-boats-to-save-people) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0643-maximum-average-subarray-i) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
