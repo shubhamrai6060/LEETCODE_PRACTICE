@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0424-longest-repeating-character-replacement) |
 | [0454-4sum-ii](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0454-4sum-ii) |
 | [0525-contiguous-array](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0560-subarray-sum-equals-k) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0567-permutation-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/1004-max-consecutive-ones-iii) |
