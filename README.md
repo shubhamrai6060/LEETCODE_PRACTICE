@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0918-maximum-sum-circular-subarray) |
 | [0922-sort-array-by-parity-ii](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0922-sort-array-by-parity-ii) |
+| [1004-max-consecutive-ones-iii](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Binary Search Tree
 |  |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -357,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0525-contiguous-array](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/1480-running-sum-of-1d-array) |
 ## Monotonic Queue
