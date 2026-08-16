@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0088-merge-sorted-array) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0141-linked-list-cycle) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0073-set-matrix-zeroes) |
 | [1672-richest-customer-wealth](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/1672-richest-customer-wealth) |
 ## Prefix Sum
 |  |
