@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0567-permutation-in-string) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/1248-count-number-of-nice-subarrays) |
+| [1763-longest-nice-substring](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/1763-longest-nice-substring) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
 |  |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0190-reverse-bits](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0190-reverse-bits) |
 | [0918-maximum-sum-circular-subarray](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0918-maximum-sum-circular-subarray) |
+| [1763-longest-nice-substring](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/1763-longest-nice-substring) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0342-power-of-four) |
 | [0779-k-th-symbol-in-grammar](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0779-k-th-symbol-in-grammar) |
+| [1763-longest-nice-substring](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/1763-longest-nice-substring) |
 ## Linked List
 |  |
 | ------- |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0567-permutation-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1763-longest-nice-substring](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/1763-longest-nice-substring) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## String Matching
 |  |
@@ -373,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1763-longest-nice-substring](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/1763-longest-nice-substring) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Matrix
 |  |
