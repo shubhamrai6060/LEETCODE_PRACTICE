@@ -27,7 +27,7 @@ public:
             curr = curr->next;
         }
 
-        // Add remaining nodes
+       
         if (list1 != NULL) {
             curr->next = list1;
         }
