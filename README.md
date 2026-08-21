@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0918-maximum-sum-circular-subarray) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0226-invert-binary-tree) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0226-invert-binary-tree) |
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0226-invert-binary-tree) |
@@ -466,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Lifting
 |  |
