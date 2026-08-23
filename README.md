@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0881-boats-to-save-people) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0059-spiral-matrix-ii) |
+| [0682-baseball-game](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0682-baseball-game) |
 ## Design
 |  |
 | ------- |
