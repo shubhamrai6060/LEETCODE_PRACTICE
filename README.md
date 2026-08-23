@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -245,10 +246,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0918-maximum-sum-circular-subarray) |
 ## Math
