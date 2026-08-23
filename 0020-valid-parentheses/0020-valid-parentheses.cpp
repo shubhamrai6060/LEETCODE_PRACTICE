@@ -5,12 +5,12 @@ public:
 
         for (char ch : s) {
 
-            // Opening brackets
+           
             if (ch == '(' || ch == '{' || ch == '[') {
                 st.push(ch);
             }
 
-            // Closing brackets
+          
             else {
                 if (st.empty())
                     return false;
