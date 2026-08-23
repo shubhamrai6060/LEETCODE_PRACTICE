@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0232-implement-queue-using-stacks) |
+| [0933-number-of-recent-calls](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0918-maximum-sum-circular-subarray) |
+| [0933-number-of-recent-calls](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0933-number-of-recent-calls) |
 ## Math
 |  |
 | ------- |
@@ -503,4 +505,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
