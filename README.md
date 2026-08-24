@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0704-binary-search) |
+| [0735-asteroid-collision](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0881-boats-to-save-people) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0059-spiral-matrix-ii) |
 | [0682-baseball-game](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0735-asteroid-collision) |
 | [1929-concatenation-of-array](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Design
