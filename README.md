@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0219-contains-duplicate-ii) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0547-number-of-provinces) |
 ## String
@@ -450,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
@@ -479,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0200-number-of-islands) |
 | [1672-richest-customer-wealth](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/1672-richest-customer-wealth) |
 ## Prefix Sum
 |  |
