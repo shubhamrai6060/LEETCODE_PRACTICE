@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0414-third-maximum-number) |
 | [0454-4sum-ii](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0454-4sum-ii) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0918-maximum-sum-circular-subarray) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0547-number-of-provinces) |
 ## String
 |  |
@@ -552,4 +555,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0062-unique-paths) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
