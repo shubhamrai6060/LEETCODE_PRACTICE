@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0905-sort-array-by-parity) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0918-maximum-sum-circular-subarray) |
 ## Sorting
 |  |
