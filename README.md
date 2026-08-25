@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0078-subsets) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0200-number-of-islands) |
 | [1672-richest-customer-wealth](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/1672-richest-customer-wealth) |
