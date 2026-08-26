@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0414-third-maximum-number) |
+| [0416-partition-equal-subset-sum](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0416-partition-equal-subset-sum) |
 | [0454-4sum-ii](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0454-4sum-ii) |
 | [0485-max-consecutive-ones](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0496-next-greater-element-i) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0918-maximum-sum-circular-subarray) |
@@ -559,8 +561,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0416-partition-equal-subset-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0322-coin-change) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
