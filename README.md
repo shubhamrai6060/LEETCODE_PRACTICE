@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/1672-richest-customer-wealth) |
+| [1710-maximum-units-on-a-truck](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/1710-maximum-units-on-a-truck) |
 | [1929-concatenation-of-array](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0860-lemonade-change](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0881-boats-to-save-people) |
+| [1710-maximum-units-on-a-truck](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/1710-maximum-units-on-a-truck) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0922-sort-array-by-parity-ii) |
+| [1710-maximum-units-on-a-truck](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/1710-maximum-units-on-a-truck) |
 ## Simulation
 |  |
 | ------- |
