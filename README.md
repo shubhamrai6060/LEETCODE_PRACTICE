@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0735-asteroid-collision) |
 | [1929-concatenation-of-array](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/1929-concatenation-of-array) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0190-reverse-bits) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0189-rotate-array) |
@@ -442,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0125-valid-palindrome) |
