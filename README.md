@@ -397,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0733-flood-fill) |
+| [1971-find-if-path-exists-in-graph](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0733-flood-fill) |
+| [1971-find-if-path-exists-in-graph](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/1971-find-if-path-exists-in-graph) |
 ## String
 |  |
 | ------- |
@@ -506,10 +508,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0547-number-of-provinces) |
+| [1971-find-if-path-exists-in-graph](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0547-number-of-provinces) |
+| [1971-find-if-path-exists-in-graph](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/1971-find-if-path-exists-in-graph) |
 ## Sliding Window
 |  |
 | ------- |
