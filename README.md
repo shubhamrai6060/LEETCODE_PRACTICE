@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0918-maximum-sum-circular-subarray) |
 | [0922-sort-array-by-parity-ii](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0922-sort-array-by-parity-ii) |
+| [0994-rotting-oranges](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/1248-count-number-of-nice-subarrays) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/1971-find-if-path-exists-in-graph) |
 ## String
 |  |
@@ -541,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0994-rotting-oranges) |
 | [1672-richest-customer-wealth](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/1672-richest-customer-wealth) |
 ## Prefix Sum
 |  |
