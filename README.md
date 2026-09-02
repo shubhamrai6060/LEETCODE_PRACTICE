@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0231-power-of-two) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0231-power-of-two) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0089-gray-code) |
 ## Tree
 |  |
 | ------- |
