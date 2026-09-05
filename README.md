@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0072-edit-distance) |
+| [0095-unique-binary-search-trees-ii](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -368,10 +369,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0089-gray-code) |
+| [0095-unique-binary-search-trees-ii](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0095-unique-binary-search-trees-ii) |
 ## Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0100-same-tree) |
@@ -420,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0100-same-tree) |
@@ -511,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shubhamrai6060/LEETCODE_PRACTICE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
